@@ -1,0 +1,8 @@
+.vscode/
+**/__pycache__/
+PIE_clips/
+data_cache/
+annotations/
+annotations_attributes/
+annotations_vehicle/
+images/
